@@ -1,6 +1,6 @@
 package com.in28minutes.spring.basics.springin5steps;
 
 public interface SortAlgorithm {
-	public int binarySearch(int[] numbers, int target);
+	public int[] sort(int[] numbers);
 
 }
